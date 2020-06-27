@@ -1,51 +1,36 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Fit-Trac
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+Link: https://github.com/BPeart90/Fit-Trac
 
-## User Story
+## Project description
+The application is used to track the users fitness activity. The application allowed the users to add new workouts and track the workouts from previous days. The activity is saved on a MongoDB server. 
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+## Table of contents
+1. [License](#license)
+2. [Dependencies](#dependency)
+3. [How to Use Repo](#howtouserepo)
+4. [Collaborator](#collaborator)
+5. [Tests](#tests)
+6. [Contact Me](#contact)
 
-## Business Context
+### Lincense [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+the licesnse used for this project is MIT
 
-A consumer will reach their fitness goals quicker when they track their workout progress.
+### Dependecy
+What code should be used to run required Depencies:
+the code is npm install
 
-## Acceptance Criteria
+### Repo
+How should this Repo be used: this is a private repo
 
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+### Collaborator
+Collaborators on this project are:
+N/A
 
-The user should be able to:
+### Tests
+To run tests, run the following command: 
+run test
 
-  * Add exercises to a previous workout plan.
-
-  * Add new exercises to a new workout plan.
-
-  * View multiple the combined weight of multiple exercises on the `stats` page.
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
-
-Follow these guidelines for committing:
-
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the Github repository
+### contact
+to contact the user creator of the repo please contact: Github Username: BPeart90 or by email at Brandonj.peart1@gmail.com
+    
